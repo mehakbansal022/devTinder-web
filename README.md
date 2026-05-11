@@ -5,3 +5,8 @@
 -run the code
 -Install daisy UI through documentation
 -Add navbar component to App.jsx
+-Create a NavBar.jsx seperate components file
+-Install react-router-dom
+-Create BrowserRouter -> Routes -> Route =/Body ->RouteChildren
+-Create an outlet in your Body Component
+-Create a Footer
