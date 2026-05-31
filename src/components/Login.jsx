@@ -20,7 +20,6 @@ const Login = () => {
       },{ 
         withCredentials: true
       });
-      //console.log(res.data);
       dispatch(addUser(res.data));
       return navigate("/");
     } catch (err){
