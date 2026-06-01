@@ -30,3 +30,9 @@
 -Show Toast message on save of profile
 -New page - See all my connections
 -New page - See all my connection Requests
+-Feature - Accept/Reject connection requests
+
+Remaining:
+-Send/Ignore the user card from feed
+-SignUp new user
+-End to end testing
